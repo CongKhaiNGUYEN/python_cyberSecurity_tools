@@ -1,3 +1,3 @@
 # Python tools
 
-Some interesting pytho code for offensive pentest
+Some interesting python code for offensive pentest
